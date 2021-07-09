@@ -79,7 +79,6 @@ object AIS {
       // set parallelism to 1 because only one thread can write to a socket
       //.setParallelism(1)
 
-
     val Q2rankMonth: DataStreamSink[Q2ResultReading] = sensorData
       .assignTimestampsAndWatermarks(ws)
       .filter{ t =>
