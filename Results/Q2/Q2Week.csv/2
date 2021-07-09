@@ -1,0 +1,15 @@
+Thu Mar 19,Orientale,00:00-11:59,{I34, D20, D19},12:00-23:59,{I34, D19, D20}
+Thu Mar 26,Orientale,00:00-11:59,{G31, I34, D20},12:00-23:59,{G31, I34, D19}
+Thu Apr 02,Orientale,00:00-11:59,{G31, F31, I34},12:00-23:59,{G31, F31, I34}
+Thu Apr 09,Orientale,00:00-11:59,{G31, D20, E3},12:00-23:59,{G31, D20, F31}
+Thu Apr 09,Occidentale,00:00-11:59,{G31, D20, E3},12:00-23:59,{G8, G31, D20}
+Thu Apr 16,Orientale,00:00-11:59,{I34, H10, E3},12:00-23:59,{I34, E3, G8}
+Thu Apr 16,Occidentale,00:00-11:59,{I34, D20, H10},12:00-23:59,{D20, I34, D19}
+Thu Apr 23,Orientale,00:00-11:59,{I34, E3, D20},12:00-23:59,{I34, D20, E3}
+Thu Apr 23,Occidentale,00:00-11:59,{E3, I34, D20},12:00-23:59,{E3, I34, D20}
+Thu Apr 30,Orientale,00:00-11:59,{E3, G30, I34},12:00-23:59,{E3, G30, I34}
+Thu Apr 30,Occidentale,00:00-11:59,{E3, J15, G30},12:00-23:59,{E3, J15, G30}
+Thu May 07,Occidentale,00:00-11:59,{E3, G7, J13},12:00-23:59,{E3, J13, G7}
+Thu May 07,Orientale,00:00-11:59,{E3, G8, G7},12:00-23:59,{E3, J13, G7}
+Thu May 14,Orientale,00:00-11:59,{E3, J13, G7},12:00-23:59,{E3, J13, G7}
+Thu May 14,Occidentale,00:00-11:59,{E3, J13, G7},12:00-23:59,{E3, J13, G7}
